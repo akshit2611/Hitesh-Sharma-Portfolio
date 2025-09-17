@@ -9,14 +9,11 @@ import { FaTwitter, FaInstagram, FaFacebook, FaEnvelope } from "react-icons/fa";
 export const Body = () => {
 
    const images = [
-   "/images/15.png",
-   "/images/11.png",
-   "/images/16.png",
-   "/images/18.png",
-   "/images/19.png",
-   "/images/22.png",
-   "/images/21.png",
-      
+  `${import.meta.env.BASE_URL}images/15.png`,
+    `${import.meta.env.BASE_URL}images/16.png`,
+    `${import.meta.env.BASE_URL}images/19.png`,
+    `${import.meta.env.BASE_URL}images/22.png`,
+    `${import.meta.env.BASE_URL}images/21.png`,
   ];
   
    const interests = [
