@@ -74,7 +74,7 @@ export const Body = () => {
       <p className='w-full text-sm text-pink-400 flex flex-wrap  \\ sm:w-200 sm:text-xl sm:text-pink-400 '>As a full-stack developer skilled in Javascript, Node.js, Express.js, SQL, and Tailwind CSS, MongoDB, I’m eager to contribute and grow with your team. I'd appreciate it if you could take a moment to review my profile.</p>
       <div className='flex gap-8 mt-4 text-blue-900'>
       <a
-  href="/Hitesh-Sharma-Resume.pdf"
+  href={`${import.meta.env.BASE_URL}Hitesh-Sharma-Resume.pdf`}
         download
         target="_blank"
         rel="noopener noreferrer"
@@ -314,7 +314,7 @@ export const Body = () => {
       
       {/* Project Card */}
        <div className="bg-black/80 backdrop-blur-md p-4 rounded-xl shadow-lg border border-white/40 gap-10 \\  ">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRkkE4MAAkihr1xFfnmeMZPRNH4JEhIA-QZA&s" className="w-full h-40 object-cover rounded-lg mb-4"/>
+  <img src="https://w3layouts.b-cdn.net/wp-content/uploads/2020/04/fashion9-990x523.jpg" className="w-full h-40 object-cover rounded-lg mb-4"/>
         <div className="flex flex-wrap gap-2 mb-4">
           <span className="bg-orange-500 text-white text-sm px-3 py-1 rounded-full">React.js</span>
           <span className="bg-green-600 text-white text-sm px-3 py-1 rounded-full">TailwindCSS</span>
@@ -339,7 +339,7 @@ export const Body = () => {
       </div>
 
       <div className="bg-black/80 backdrop-blur-md p-4 rounded-xl shadow-lg border border-white/40 gap-10">
-  <img src="https://img.freepik.com/premium-psd/fashion-website-landing-page_200778-10.jpg?semt=ais_incoming&w=740&q=80" className="w-full h-40 object-contain rounded-lg mb-4"/>
+  <img src="https://muffingroup.com/blog/wp-content/uploads/2021/07/beclothing.jpg" className="w-full h-40 object-contain rounded-lg mb-4"/>
         <div className="flex flex-wrap gap-2 mb-4">
           <span className="bg-orange-500 text-white text-sm px-3 py-1 rounded-full">JavaScript</span>
           <span className="bg-green-600 text-white text-sm px-3 py-1 rounded-full"> TailwindCSS</span>
@@ -362,7 +362,7 @@ export const Body = () => {
       </div>
 
       <div className="bg-black/80 backdrop-blur-md p-4 rounded-xl shadow-lg border border-white/40 gap-10">
-  <img src="https://www.shutterstock.com/image-vector/set-sign-forms-colorful-gradient-260nw-2082628327.jpg" className="w-full h-40 object-contain rounded-lg mb-4"/>
+  <img src="https://codehalweb.com/wp-content/uploads/2023/05/thumbnail-3.png" className="w-full h-40 object-contain rounded-lg mb-4"/>
         <div className="flex flex-wrap gap-2 mb-4">
           <span className="bg-orange-500 text-white text-sm px-3 py-1 rounded-full">JavaScript</span>
           <span className="bg-green-600 text-white text-sm px-3 py-1 rounded-full">TailwindCss</span>
