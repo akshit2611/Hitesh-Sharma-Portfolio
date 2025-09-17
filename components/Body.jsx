@@ -317,7 +317,7 @@ export const Body = () => {
       
       {/* Project Card */}
        <div className="bg-black/80 backdrop-blur-md p-4 rounded-xl shadow-lg border border-white/40 gap-10 \\  ">
-  <img src="/images/6.png" className="w-full h-40 object-cover rounded-lg mb-4"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRkkE4MAAkihr1xFfnmeMZPRNH4JEhIA-QZA&s" className="w-full h-40 object-cover rounded-lg mb-4"/>
         <div className="flex flex-wrap gap-2 mb-4">
           <span className="bg-orange-500 text-white text-sm px-3 py-1 rounded-full">React.js</span>
           <span className="bg-green-600 text-white text-sm px-3 py-1 rounded-full">TailwindCSS</span>
@@ -342,7 +342,7 @@ export const Body = () => {
       </div>
 
       <div className="bg-black/80 backdrop-blur-md p-4 rounded-xl shadow-lg border border-white/40 gap-10">
-  <img src="/images/1.png" className="w-full h-40 object-contain rounded-lg mb-4"/>
+  <img src="https://img.freepik.com/premium-psd/fashion-website-landing-page_200778-10.jpg?semt=ais_incoming&w=740&q=80" className="w-full h-40 object-contain rounded-lg mb-4"/>
         <div className="flex flex-wrap gap-2 mb-4">
           <span className="bg-orange-500 text-white text-sm px-3 py-1 rounded-full">JavaScript</span>
           <span className="bg-green-600 text-white text-sm px-3 py-1 rounded-full"> TailwindCSS</span>
@@ -365,7 +365,7 @@ export const Body = () => {
       </div>
 
       <div className="bg-black/80 backdrop-blur-md p-4 rounded-xl shadow-lg border border-white/40 gap-10">
-  <img src="/images/3.png" className="w-full h-40 object-contain rounded-lg mb-4"/>
+  <img src="https://www.shutterstock.com/image-vector/set-sign-forms-colorful-gradient-260nw-2082628327.jpg" className="w-full h-40 object-contain rounded-lg mb-4"/>
         <div className="flex flex-wrap gap-2 mb-4">
           <span className="bg-orange-500 text-white text-sm px-3 py-1 rounded-full">JavaScript</span>
           <span className="bg-green-600 text-white text-sm px-3 py-1 rounded-full">TailwindCss</span>
@@ -390,7 +390,7 @@ export const Body = () => {
       </div>
 
       <div className="bg-black/80 backdrop-blur-md p-4 rounded-xl shadow-lg border border-white/40 gap-10">
-  <img src="/images/2.png" className="w-full h-40 object-cover rounded-lg mb-4"/>
+  <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvuk7p8sh2q9788rxgdvh.png" className="w-full h-40 object-cover rounded-lg mb-4"/>
         <div className="flex flex-wrap gap-2 mb-4">
           <span className="bg-orange-500 text-white text-sm px-3 py-1 rounded-full">JavaScript</span>
           <span className="bg-green-600 text-white text-sm px-3 py-1 rounded-full">Node.js</span>
@@ -411,7 +411,7 @@ export const Body = () => {
       </div>
 
       <div className="bg-black/80 backdrop-blur-md p-4 rounded-xl shadow-lg border border-white/40 gap-10 ">
-  <img src="/images/4.png" className="w-full h-40 object-cover rounded-lg mb-4"/>
+  <img src="https://ph-files.imgix.net/e12f9c10-2d0f-41b8-be34-4d1a78d4bef8.webp?auto=format&fit=crop" className="w-full h-40 object-cover rounded-lg mb-4"/>
         <div className="flex flex-wrap gap-2 mb-4">
           <span className="bg-orange-500 text-white text-sm px-3 py-1 rounded-full">JavaScript</span>
           <span className="bg-green-600 text-white text-sm px-3 py-1 rounded-full">CSS</span>
@@ -429,7 +429,7 @@ export const Body = () => {
       </div>
 
       <div className="bg-black/80 backdrop-blur-md p-4 rounded-xl shadow-lg border border-white/40 gap-10">
-  <img src="/images/5.png" className="w-full h-40 object-cover rounded-lg mb-4"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKNKaKsJoO93z-1rtHLaDh1yxVQsHn5SuKLQ&s" className="w-full h-40 object-cover rounded-lg mb-4"/>
         <div className="flex flex-wrap gap-2 mb-4">
           <span className="bg-orange-500 text-white text-sm px-3 py-1 rounded-full">HTML</span>
           <span className="bg-green-600 text-white text-sm px-3 py-1 rounded-full">CSS</span>
@@ -448,7 +448,7 @@ export const Body = () => {
      
 
       <div className="bg-black/80 backdrop-blur-md p-4 rounded-xl shadow-lg border border-white/40 gap-10">
-  <img src="/images/111.png" className="w-full h-40 object-cover rounded-lg mb-4"/>
+  <img src="https://rukminim2.flixcart.com/image/704/844/khuvxjk0-0/poster/9/s/9/small-poster-of-political-leaders-with-their-names-pg-53-original-imafxsfnhgnd2wby.jpeg?q=90&crop=false" className="w-full h-40 object-cover rounded-lg mb-4"/>
         <div className="flex flex-wrap gap-2 mb-4">
           <span className="bg-orange-500 text-white text-sm px-3 py-1 rounded-full">React</span>
           <span className="bg-green-600 text-white text-sm px-3 py-1 rounded-full">Tailwind</span>
