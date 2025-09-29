@@ -313,6 +313,32 @@ export const Body = () => {
     <div className="grid grid-cols-1 md:grid-cols-3 gap-18">
       
       {/* Project Card */}
+ <div className="bg-black/80 backdrop-blur-md p-4 rounded-xl shadow-lg border border-white/40 gap-10 \\  ">
+  <img src="https://w3layouts.b-cdn.net//wp-content/uploads/2020/02/Frame-33-1-1.jpg" className="w-full h-40 object-cover rounded-lg mb-4"/>
+        <div className="flex flex-wrap gap-2 mb-4">
+          <span className="bg-orange-500 text-white text-sm px-3 py-1 rounded-full">React.js</span>
+          <span className="bg-green-600 text-white text-sm px-3 py-1 rounded-full">TailwindCSS</span>
+          <span className="bg-yellow-500 text-white text-sm px-3 py-1 rounded-full">Authentication</span>
+          <span className="bg-red-500 text-white text-sm px-3 py-1 rounded-full">JavaScript</span>
+          <span className="bg-purple-600 text-white text-sm px-3 py-1 rounded-full">UI || UX</span>
+          <span className="bg-rose-500 text-white text-sm px-3 py-1 rounded-full">Hooks</span>
+        </div>
+        <h3 className="text-xl font-semibold text-orange-400">Travel-with-Hitesh</h3>
+        <p className="text-gray-200 mt-2">✅User Authentication – Register, Login, Admin.<br></br>
+✅User Tracking & view registered users.<br></br>
+✅Prices changes based on user requirements.<br></br>
+✅Users can post thier own blogs & stories.<br></br>
+✅Admin can View and delete users.<br></br>
+✅Real-Time Map Integration in contact us.<br></br>
+✅Each tour has its own details and prices.<br></br>
+</p>
+        <div className="flex gap-4 mt-4">
+          <a href="https://akshit2611.github.io/my-project/"className="px-4 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600">Live Demo</a>
+          <a href="https://github.com/akshit2611/my-project" className="px-4 py-2 bg-cyan-500 text-white rounded-lg hover:bg-cyan-600">
+            Github Repo</a>
+        </div>
+      </div>
+
        <div className="bg-black/80 backdrop-blur-md p-4 rounded-xl shadow-lg border border-white/40 gap-10 \\  ">
   <img src="https://w3layouts.b-cdn.net/wp-content/uploads/2020/04/fashion9-990x523.jpg" className="w-full h-40 object-cover rounded-lg mb-4"/>
         <div className="flex flex-wrap gap-2 mb-4">
